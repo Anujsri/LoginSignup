@@ -1,3 +1,3 @@
-#Login & SignUp 
+#Login & SignUp Form
 
-This is a user login and registration template using animation.
+This is a user Login and Signup template with animation.
